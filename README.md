@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrettKarlson
-- 👀 I’m a beginner.
-- 🌱 I’m currently learning Ruby and Javascript.
+- 👀 I’m a beginner
+- 🌱 But, I’m learning a lot at Makers
 
 
 <!---
